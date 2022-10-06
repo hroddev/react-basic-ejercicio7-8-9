@@ -13,6 +13,8 @@ ___
 
 ## Como Usar
 
+### Deploy [DEMO](https://react-basic-ejercicio7-8-9-hiddymj2x-hroddev.vercel.app/)
+
 <!-- Example: -->
 ![captura](./public/captura_1.png)
 
